@@ -15,8 +15,6 @@ This policy explains what the Addon Alchemist Discord app, operated by Infinite 
 - If you link Battle.net: your Battle.net account ID, BattleTag, region, the list of your World of Warcraft characters, and the character you mark as your main.
 - If you use Linked Roles: a Discord token that lets the app update your role connection, and the metadata it pushes to Discord (for example your Mythic+ score and raid kills).
 - If you are a supporter: the credit name and realm you choose, and whether you asked to be hidden from the credits.
-- If you paste a character export from GearMatic: the equipped items, gems, enchants and score in that export, tied to your Discord user ID.
-- Guild tier data: which servers hold an active subscription, and the scores of members who pasted exports there.
 - A log of app events (command used, when, and by which user ID) to diagnose problems.
 - Cached copies of public game data from Blizzard, Raider.IO and AllTheThings, which are not about you.
 
@@ -24,7 +22,7 @@ We do not store messages, payment details, passwords, or your Battle.net login. 
 
 ## Why we store it
 
-To run the features you ask for: linking your account, showing your characters, updating Linked Roles, listing you in the credits, scoring your gear, and fixing bugs. We do not sell data and we do not use it for advertising.
+To run the features you ask for: linking your account, showing your characters, updating Linked Roles, listing you in the credits, and fixing bugs. We do not sell data and we do not use it for advertising.
 
 ## Who else sees it
 
@@ -34,7 +32,7 @@ To run the features you ask for: linking your account, showing your characters, 
 
 ## How long we keep it
 
-Battle.net links, credit names and pasted exports stay until you remove them. Event logs and caches expire automatically. If you leave the Discord server or remove the app, your subscription data is closed by Discord and the rest is deleted on request.
+Battle.net links, Linked Roles tokens and credit names stay until you remove them; Linked Roles tokens are dropped as soon as the Battle.net link is gone. Event logs are deleted after 90 days and cached game data after 30 days. If you leave the Discord server or remove the app, your subscription data is closed by Discord and the rest is deleted on request.
 
 ## Your choices
 

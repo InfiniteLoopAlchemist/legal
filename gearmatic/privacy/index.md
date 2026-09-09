@@ -29,7 +29,7 @@ To run the features you ask for: scoring your gear, keeping your last export so 
 
 ## How long we keep it
 
-Your exports stay until you delete them or replace them with a newer paste. Event logs expire automatically. When a server removes the app, that server's guild data is deleted.
+Your score stays until you replace it with a newer paste, and is deleted after 180 days without one. Event logs are deleted after 90 days. When a server removes the app, that server's guild data is deleted on request.
 
 ## Your choices
 

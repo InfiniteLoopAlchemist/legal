@@ -11,7 +11,7 @@ Addon Alchemist ("the app", "we") is a Discord application operated by Infinite 
 
 ## 1. What the app does
 
-The app answers slash commands in Discord about World of Warcraft characters, items and waypoints, publishes version and changelog information for the -Matic addons, shows supporter credits, and scores gear that you paste from the GearMatic addon.
+The app answers slash commands in Discord about World of Warcraft characters, items and waypoints, publishes version and changelog information for the -Matic addons, and shows supporter credits.
 
 ## 2. Who may use it
 
@@ -21,7 +21,7 @@ You must meet Discord's minimum age and follow Discord's Terms of Service and Co
 
 Character, item and waypoint commands built on Blizzard data are free and will stay free.
 
-Some features are sold as subscriptions through Discord: a Supporter tier on our Discord server and a guild tier for your own server. Discord handles checkout, billing, renewal, cancellation and refunds under Discord's Paid Services Terms. You can cancel at any time in Discord; access continues until the end of the paid period. We do not see or store your payment details.
+Some features are sold as subscriptions through Discord: a Supporter tier on our Discord server. Discord handles checkout, billing, renewal, cancellation and refunds under Discord's Paid Services Terms. You can cancel at any time in Discord; access continues until the end of the paid period. We do not see or store your payment details.
 
 ## 4. Acceptable use
 
@@ -29,7 +29,7 @@ Do not use the app to harass anyone, to spam, to scrape or bulk-collect data, to
 
 ## 5. Your content
 
-Character exports you paste and names you choose for the credits are yours. You give us permission to store and display them so the features work. Do not paste information about a person without their consent.
+Names you choose for the credits are yours. You give us permission to store and display them so the features work.
 
 ## 6. Game data and third parties
 
